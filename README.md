@@ -9,4 +9,4 @@ My publications in bibtex format
 
 Bram de Wilde, Anindo Saha, Richard PG ten Broek, Henkjan Huisman
 
-[doi]() | [pdf](https://github.com/brambozz/publications/blob/raw/pdf/2023medical.pdf)
+[doi]() | [pdf](https://github.com/brambozz/publications/raw/main/pdf/2023medical.pdf)
