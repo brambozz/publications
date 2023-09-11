@@ -3,7 +3,7 @@ My publications in bibtex format
 
 ## First author / equal contribution
 
-**Medical diffusion on a budget: textual inversion for medical image generation**
+**Medical diffusion on a budget: textual inversion for medical image generation**<br>
 
 *arXiv preprint arXiv:2303.13430 (2023)*
 
