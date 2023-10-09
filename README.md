@@ -10,7 +10,7 @@ Bram de Wilde, Anindo Saha, Richard PG ten Broek, Henkjan Huisman<br>
 [doi](https://doi.org/10.48550/arXiv.2303.13430) | [pdf](https://github.com/brambozz/publications/raw/main/pdf/2023medical.pdf)<br>
 
 **Cine‑MRI detection of abdominal adhesions with spatio‑temporal deep learning**<br>
-*Medical Imaing with Deep Learning*<br>
+*Medical Imaging with Deep Learning*<br>
 Bram De Wilde, Richard PG ten Broek, Henkjan Huisman<br>
 [doi](https://doi.org/10.48550/arXiv.2106.08094) | [pdf](https://github.com/brambozz/publications/raw/main/pdf/2021cine.pdf)<br>
 
